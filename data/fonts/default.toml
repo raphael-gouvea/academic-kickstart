@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Default"
+
+# Optional Google font URL
+google_fonts = "Roboto+Condensed:300"
+
+# Font families
+heading_font = "Roboto"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "14"
+font_size_small = "14"
